@@ -23,7 +23,7 @@ This project analyzes Blinkit sales data using Power BI to identify key business
 ##  Files Included
 
 * Blinkit Project1.pbix (Power BI file)
-* Dataset (if available)
+* Dataset 
 * Dashboard screenshots
 
 ##  Conclusion
