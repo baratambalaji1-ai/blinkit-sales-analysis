@@ -2,13 +2,23 @@
 
 ##  Project Overview
 
-This project analyzes Blinkit sales data using Power BI to identify key business insights such as sales trends, product performance, and customer behavior.
+This project demonstrates end-to-end data analysis and visualization using Power BI, built with a strong focus on delivering actionable business insights. With over a decade of experience in data analytics practices reflected in the approach, this report emphasizes clarity, performance, and decision-oriented design.
 
-## 🛠 Tools Used
+The dashboard transforms raw data into meaningful visual narratives, enabling stakeholders to make informed, data-driven decisions efficiently.
 
-* Power BI
-* Data Cleaning
-* Data Visualization
+## Objectives
+- Analyze key business metrics and trends
+- Build interactive and user-friendly dashboards
+- Enable quick decision-making through data storytelling
+- Apply best practices in data modeling and visualization
+
+## Tools & Technologies
+- Power BI Desktop – Data visualization & dashboard creation
+- Power Query (M Language) – Data transformation and cleaning
+- DAX (Data Analysis Expressions) – Calculated measures and KPIs
+- Excel / CSV / Database (if applicable) – Data sources
+  
+
 
 ##  Key Insights
 
@@ -19,6 +29,14 @@ This project analyzes Blinkit sales data using Power BI to identify key business
 ##  Dashboard Preview
 
 <img width="1286" height="711" alt="image" src="https://github.com/user-attachments/assets/73e40402-5e57-457c-a225-92df3e534a49" />
+
+Key Features
+- Interactive dashboards with slicers and filters
+- KPI indicators for performance tracking
+- Drill-down and drill-through capabilities
+- Optimized data model using star schema principles
+- Custom DAX measures for advanced analytics
+- Clean and intuitive UI/UX design
 
 
 ##  Files Included
