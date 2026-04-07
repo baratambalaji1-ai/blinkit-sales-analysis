@@ -18,7 +18,8 @@ This project analyzes Blinkit sales data using Power BI to identify key business
 
 ##  Dashboard Preview
 
-(Add your screenshots here)
+<img width="1286" height="711" alt="image" src="https://github.com/user-attachments/assets/73e40402-5e57-457c-a225-92df3e534a49" />
+
 
 ##  Files Included
 
